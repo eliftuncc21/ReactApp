@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "react-pose": "^4.0.10",
+    "uniqid": "^5.4.0"
+  }
+}
